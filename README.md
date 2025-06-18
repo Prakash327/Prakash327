@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash Basnet</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash327&label=Profile%20views&color=0e75b6&style=flat" alt="prakash327" /> </p>
-
 - 🔭 I’m currently working on [health_tips_web_app](https://github.com/Prakash327/health_tips_web_app)
 
 - 🌱 I’m currently learning **Node js with Typescript, MERN Stack**
